@@ -66,4 +66,4 @@ If you prefer `npm`, you can do `npm run cypress open` instead of `yarn run cypr
 
 ## License
 
-MIT Licensed. Copyright (c) DarrenB 2019.
+MIT Licensed. Copyright (c) Darren Banghart 2019.
